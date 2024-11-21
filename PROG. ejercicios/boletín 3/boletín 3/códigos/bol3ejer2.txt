@@ -1,0 +1,4 @@
+carlos
+52313416
+el número introducido es par
+el número introducido es positivo

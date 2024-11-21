@@ -1,0 +1,14 @@
+import java.util.Scanner;
+    public class suma {
+    public static void main(String args[]) {
+    
+        Scanner sc = new Scanner (System.in);
+        int numA;
+        int numB;
+
+        System.out.println ("hola, bienvenido a mi programa matemático");
+        System.out.println ("por favor, ingresa tu primer numero: ");
+        numA= sc.nextInt();
+
+        System.out.println ("de acuerdo, intresa tu segundo número: ");
+        numB= sc.nextInt();
